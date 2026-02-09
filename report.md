@@ -1,0 +1,1 @@
+In this lab, I learned how to use Git and GitHub to manage my code and work better with others. I created a repository on GitHub, cloned it to my computer, made changes, and deployed my work using GitHub Pages. I also learned how the visual parts of a web page are built using basic HTML. I built a simple webpage using correct semantic HTML tags.
